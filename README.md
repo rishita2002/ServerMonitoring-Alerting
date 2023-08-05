@@ -3,3 +3,5 @@ Python application to check the status of multiple IP addresses using the ping c
 
 With functionality to generate beep alerts for timed-out IP addresses, enhancing user experience and 
 system monitoring capabilities. 
+
+A robust solution, ensuring efficient handling of IP status updates and database management.
